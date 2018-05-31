@@ -5,6 +5,6 @@
 ./gradlew test
 ```
 
-## Path to the test repost
+## Path to the test report
 - In the folder `build/test-results/test/`
 
